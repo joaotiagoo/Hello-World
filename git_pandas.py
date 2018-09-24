@@ -29,4 +29,4 @@ df["age"].mean()
 
 
 #Get the mean of the Average Spending
-df["SAvgSpend"].mean()
+df["AvgSpend"].mean()
